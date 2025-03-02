@@ -22,11 +22,11 @@ repository               : "zzcakun/zzcakun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cat.jpg"
   name             : "Zhenkun Zheng"
   pronouns         : # example: "she/her"  
   bio              : "God helps those who help themselves."
-  location         : "BeiJing/China"
+  location         : "BeiJing"
   employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
   email            : "akun@bupt.cn" 
