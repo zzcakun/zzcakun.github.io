@@ -22,14 +22,14 @@ repository               : "zzcakun/zzcakun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "cat.jpg"
+  name             : "Zhenkun Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "God helps those who help themselves."
+  location         : "BeiJing/China"
+  employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "akun@bupt.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
