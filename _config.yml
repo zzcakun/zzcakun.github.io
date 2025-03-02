@@ -22,7 +22,7 @@ repository               : "zzcakun/zzcakun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cat.jpg"
+  avatar           : "avator.jpg"
   name             : "Zhenkun Zheng"
   pronouns         : # example: "she/her"  
   bio              : "God helps those who help themselves."
